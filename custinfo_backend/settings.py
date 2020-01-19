@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'custinfo_backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'custmgt',
+        'NAME': 'raj',
         'USER': 'raj',
         'PASSWORD': 'raj',
         'HOST': 'localhost',
